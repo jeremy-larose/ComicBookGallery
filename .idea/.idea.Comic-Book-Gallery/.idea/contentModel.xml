@@ -26,6 +26,7 @@
           <e p="Site.css" t="Include" />
         </e>
         <e p="Controllers" t="Include">
+          <e p="ComicBooksController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />

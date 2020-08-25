@@ -132,6 +132,9 @@
         <Content Include="fonts\glyphicons-halflings-regular.svg" />
         <Content Include="Global.asax" />
         <Content Include="Content\Site.css" />
+        <Content Include="Images\bone-50.jpg" />
+        <Content Include="Images\the-amazing-spider-man-657.jpg" />
+        <Content Include="Images\the-amazing-spider-man-700.jpg" />
         <Content Include="Scripts\bootstrap.js" />
         <Content Include="Scripts\bootstrap.min.js" />
         <None Include="Scripts\jquery-3.3.1.intellisense.js" />

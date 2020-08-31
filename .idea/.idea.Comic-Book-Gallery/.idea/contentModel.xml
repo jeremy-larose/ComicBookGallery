@@ -29,6 +29,9 @@
           <e p="ComicBooksController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
         </e>
+        <e p="Data" t="Include">
+          <e p="ComicBookRespository.cs" t="Include" />
+        </e>
         <e p="favicon.ico" t="Include" />
         <e p="fonts" t="Include">
           <e p="glyphicons-halflings-regular.eot" t="Include" />
